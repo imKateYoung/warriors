@@ -1,0 +1,15 @@
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\obj\Debug\net5.0\Warrior_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\obj\Debug\net5.0\Warrior_Game.AssemblyInfoInputs.cache
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\obj\Debug\net5.0\Warrior_Game.AssemblyInfo.cs
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\obj\Debug\net5.0\Warrior_Game.csproj.CoreCompileInputs.cache
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\bin\Debug\net5.0\Warrior_Game.exe
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\bin\Debug\net5.0\Warrior_Game.deps.json
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\bin\Debug\net5.0\Warrior_Game.runtimeconfig.json
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\bin\Debug\net5.0\Warrior_Game.runtimeconfig.dev.json
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\bin\Debug\net5.0\Warrior_Game.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\bin\Debug\net5.0\ref\Warrior_Game.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\bin\Debug\net5.0\Warrior_Game.pdb
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\obj\Debug\net5.0\Warrior_Game.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\obj\Debug\net5.0\ref\Warrior_Game.dll
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\obj\Debug\net5.0\Warrior_Game.pdb
+D:\Kate-Work\ASP.NET\Mastering with C#\projects\Warrior_Game\obj\Debug\net5.0\Warrior_Game.genruntimeconfig.cache
